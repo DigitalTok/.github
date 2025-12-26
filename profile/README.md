@@ -4,7 +4,7 @@
 
 ### 🛠️ Tech Stack
 * **Backend:** Java, Spring Boot, JPA, H2/MySQL
-* **Frontend:** ?
+* **Frontend:** 
 * **Hardware:** NFC-Powered E-Ink Display
 
 ### 📂 Repositories
