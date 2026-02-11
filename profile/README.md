@@ -1,6 +1,6 @@
-# 👋 Welcome to DigitalTok!
+# 👋 Welcome to DiRing!
 
-**DigitalTok**은 NFC 기술과 전자잉크(E-Ink) 디스플레이를 활용한 그립톡 서비스입니다.
+**DiRing**은 NFC 기술과 전자잉크(E-Ink) 디스플레이를 활용한 키링 서비스입니다.
 
 ### 🛠️ Tech Stack
 * **Backend:** Java, Spring Boot, JPA, H2/MySQL
